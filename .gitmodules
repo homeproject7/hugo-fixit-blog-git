@@ -1,6 +1,10 @@
 [submodule ".shell"]
 	path = .shell
 	url = https://github.com/homeproject7/hugo-blog-shell-fork.git
+	branch = main
+	update = merge
 [submodule "themes/FixIt"]
 	path = themes/FixIt
 	url = https://github.com/hugo-fixit/FixIt.git
+	branch = master
+	update = merge
